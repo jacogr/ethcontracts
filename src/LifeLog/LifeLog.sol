@@ -5,7 +5,7 @@
 // version: 1.0.0
 // source: https://github.com/jacogr/ethcontracts/tree/master/src/LifeLog
 
-contract LifeLog {
+contract CharlyLifeLog {
   // allow a maximum 20% withdrawal at any time
   uint private constant MAX_WITHDRAW_DIV = 5; // 100/20
 
@@ -65,7 +65,7 @@ contract LifeLog {
   }
 
   // construct a lifelog for this specific person
-  function LifeLog(string name, int dateOfBirth) {
+  function CharlyLifeLog(string name, int dateOfBirth) {
     // creator should go on the whitelist
     whitelist[msg.sender] = true;
 
