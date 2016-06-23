@@ -1,5 +1,5 @@
-// A life-log, done for Charlyn Greeff, born 18 April 2016 @ 15h30 (1460993400)
-//    Mother: Mirana Hotz, 16 December 1977 (251078400)
+// A life-log, done for Charlyn Greeff, born 18 April 2016 @ 15h30 (1460986200)
+//    Mother: Mirana Hotz, 16 December 1977 (251074800)
 //    Father: Jaco Greeff, 11 June 1973 (108604800)
 //
 // version: 1.0.0
